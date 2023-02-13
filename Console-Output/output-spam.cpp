@@ -7,6 +7,5 @@ void consoleOutput(int amount) {
 }
 
 int main() {
-  std::cout << "Hello World!" << std::endl;
   consoleOutput(3);
 }
