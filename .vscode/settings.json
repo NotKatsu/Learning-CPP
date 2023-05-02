@@ -37,7 +37,10 @@
   "C_Cpp_Runner.showCompilationTime": false,
   "files.associations": {
     "*.tcc": "cpp",
-    "cmath": "cpp"
+    "cmath": "cpp",
+    "deque": "cpp",
+    "string": "cpp",
+    "vector": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled"
 }
