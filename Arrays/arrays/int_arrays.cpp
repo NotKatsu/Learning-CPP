@@ -3,7 +3,3 @@ int* get_array() {
 
     return my_array;
 }
-
-int get_number() {
-    return 42;
-}
